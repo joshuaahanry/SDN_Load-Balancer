@@ -28,7 +28,7 @@ The topology is designed using a star (hub-and-spoke) model, segregating the net
 * **Clients (Hosts 1-4):** Simulated university users accessing the portals.
 * **Server Pool:** Replicated Nginx backend servers representing the Academic Portal (`portal1`, `portal2`) under a Virtual IP (`10.0.0.100`), alongside an interference target (`elearn`).
 
-## ⚙️ Installation & Usage
+## ⚙️ Installation 
 
 ### Prerequisites
 Ensure your laboratory environment or virtual machine has the following installed:
